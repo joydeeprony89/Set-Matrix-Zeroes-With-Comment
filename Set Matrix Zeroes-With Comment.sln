@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Set Matrix Zeroes-With Comment", "Set Matrix Zeroes-With Comment\Set Matrix Zeroes-With Comment.csproj", "{B46C12AA-5D5F-468D-B714-DBD486496D52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B46C12AA-5D5F-468D-B714-DBD486496D52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B46C12AA-5D5F-468D-B714-DBD486496D52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B46C12AA-5D5F-468D-B714-DBD486496D52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B46C12AA-5D5F-468D-B714-DBD486496D52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03A00BA0-B698-48C2-A56B-135D10A9977F}
+	EndGlobalSection
+EndGlobal
